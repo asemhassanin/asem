@@ -1,1 +1,1 @@
-document.write('<ifr'+'ame src="http://arembed.com/live.php?ch=Bein_Sports2'+ ch +'&vw='+ch_width+'&vh='+ch_height+'&domain='+document.domain+'" width='+ ch_width +' height=' + ch_height + ' scrolling=no frameborder=0 scrolling=no allowtransparency=true ></ifr'+'ame>') ;
+<iframe width='+width+' height='+height+' scrolling=no frameborder=0 scrolling=no allowtransparency=true marginwidth="0" marginheight="0" src=http://www.247bay.tv/'+embedded+'/'+channel+'/'+g+'/'+width+'/'+height+' allowfullscreen ></iframe>
